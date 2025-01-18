@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.container{
+    display: flex;
+    height: 200px;
+    align-items: flex-end;
+}
+
+.bar{
+    width: 10px;
+    background-color: black;
+    margin: 2px;
+}
+
+
